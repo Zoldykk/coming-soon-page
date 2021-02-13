@@ -1,7 +1,7 @@
 
-My solution to the FrontendMentor.io Intro component with sign-up form challenge.
+My solution to the FrontendMentor.io Ping coming soon page.
 
-Demo: https://zoldykk.github.io/signup-landing-page/
+Demo: https://zoldykk.github.io/coming-soon-page/
 
 ## Challenge
     
